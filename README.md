@@ -36,3 +36,13 @@ CartScreen ➜ Tampilkan isi keranjang & tombol checkout.
 CheckoutScreen ➜ Rincian checkout + tombol Bayar Sekarang.
 
 -------SCREENSHOOT--------
+
+![alt text](https://github.com/hhanzz08/InventoriToko-kotlin-UMB/blob/master/Screenshoot/Screenshot%202025-07-28%20102247.png?raw=true)
+
+![alt text](https://github.com/hhanzz08/InventoriToko-kotlin-UMB/blob/master/Screenshoot/Screenshot%202025-07-28%20194026.png?raw=true)
+
+![alt text](https://github.com/hhanzz08/InventoriToko-kotlin-UMB/blob/master/Screenshoot/Screenshot%202025-07-28%20102746.png?raw=true)
+
+![alt text](https://github.com/hhanzz08/InventoriToko-kotlin-UMB/blob/master/Screenshoot/Screenshot%202025-07-28%20193928.png?raw=true)
+
+![alt text](https://github.com/hhanzz08/InventoriToko-kotlin-UMB/blob/master/Screenshoot/Screenshot%202025-07-28%20102959.png?raw=true)
